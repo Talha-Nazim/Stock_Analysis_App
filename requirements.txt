@@ -2,4 +2,4 @@ yfinance
 pandas
 plotly
 statsmodels
-yaml
+pyYaml
